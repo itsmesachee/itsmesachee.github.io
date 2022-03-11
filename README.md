@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Namaste, Bonjour, Hellooo, నమస్తే, Hola !
+
 - 🌱 I’m currently learning - Machine Learning (Data Science)
                              - We need to learn to make the machines learn
 - 🤔 I’m looking for help with - suggestions & steps to improve skills for Data Science
