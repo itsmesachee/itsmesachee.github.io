@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Namaste, Bonjour, Hellooo, నమస్తే, Hola !
+Hellooo, నమస్తే, Bonjour, Hola !
 
 - 🌱 I’m currently learning - Machine Learning (Data Science)
                              - We need to learn to make the machines learn
