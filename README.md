@@ -7,6 +7,7 @@ Hellooo, నమస్తే, Bonjour, Hola !
 - 🤔 I’m looking for help with - suggestions & steps to improve skills for Data Science
 - 💬 Ask me about Java, Pega, AWS, ETL, My learning strategy for Data Science, cooking spicy Indian food.
 - 📫 How to reach me: https://www.linkedin.com/in/saibharadwaj-cheekoti/ | 
+- My Resume: 
 - 😄 Pronouns: He/Him
 
 
