@@ -26,7 +26,7 @@ Hellooo, నమస్తే, Bonjour, Hola !
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saibharadwaj-cheekoti&show_icons=true&theme=gotham" alt="Saibharadwaj-Cheekoti" />
+<img src="https://github-readme-stats.vercel.app/api?username=saibharadwaj-cheekoti&show_icons=true&theme=gotham" alt="Saibharadwaj-Cheekoti" />
 
 
 
