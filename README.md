@@ -2,9 +2,6 @@
 
 Hellooo, నమస్తే, Bonjour, Hola !
 
-<p align="center"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
 
 - 🌱 I’m currently learning - Machine Learning (Data Science)
                              - We need to learn to make the machines learn
