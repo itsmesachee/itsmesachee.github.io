@@ -1,8 +1,8 @@
 
-<h2 align="center">
+<h3 align="center">
   Hellooo, నమస్తే, Bonjour, Hola !Welcome to Saibharadwaj Cheekoti's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+</h3>
 
 
 - 🌱 I’m currently learning - Machine Learning (Data Science)
