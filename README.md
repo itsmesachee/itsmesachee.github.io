@@ -6,7 +6,7 @@ Hellooo, నమస్తే, Bonjour, Hola !
                              - We need to learn to make the machines learn
 - 🤔 I’m looking for help with - suggestions & steps to improve skills for Data Science
 - 💬 Ask me about Java, Pega, AWS, ETL, My learning strategy for Data Science, cooking spicy Indian food.
-- 📫 How to reach me: <br>
+- 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/saibharadwaj-cheekoti/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>| 
