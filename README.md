@@ -1,11 +1,8 @@
-### Hi there 👋
 
-Hellooo, నమస్తే, Bonjour, Hola !
-
-<h3 align="center">
-  Welcome to Saibharadwaj Cheekoti's profile!
+<h2 align="center">
+  Hellooo, నమస్తే, Bonjour, Hola !Welcome to Saibharadwaj Cheekoti's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 
 
 - 🌱 I’m currently learning - Machine Learning (Data Science)
