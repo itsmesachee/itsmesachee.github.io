@@ -10,6 +10,7 @@ Hellooo, నమస్తే, Bonjour, Hola !
 <a href="https://www.linkedin.com/in/saibharadwaj-cheekoti/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>| 
+<br/>
 - My Resume: [SaibharadwajCheekoti_Resume](https://github.com/saibharadwaj-cheekoti/saibharadwaj-cheekoti/files/8269785/Saibharadwaj_Cheekoti_WPS.pdf)
 - 😄 Pronouns: He/Him
 
