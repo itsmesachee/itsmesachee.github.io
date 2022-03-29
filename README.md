@@ -11,8 +11,23 @@ Hellooo, నమస్తే, Bonjour, Hola !
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>| 
 <br/>
+
 - My Resume: [SaibharadwajCheekoti_Resume](https://github.com/saibharadwaj-cheekoti/saibharadwaj-cheekoti/files/8269785/Saibharadwaj_Cheekoti_WPS.pdf)
 - 😄 Pronouns: He/Him
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆   Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saibharadwaj-cheekoti&show_icons=true&theme=gotham" alt="Saibharadwaj-Cheekoti" />
+
 
 
 <!--
