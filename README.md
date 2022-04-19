@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-![profile](https://komarev.com/ghpvc/?username=saibharadwaj-cheekoti&color=green)
+
 
 
 - 🌱 I’m currently learning - Machine Learning (Data Science)
@@ -24,9 +24,9 @@
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆   Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 5 days
+🌸  Completed 0 tasks today                    
+⏳  Longest streak is 51 days
+![profile](https://komarev.com/ghpvc/?username=saibharadwaj-cheekoti&color=green)
 <!-- TODO-IST:END -->
 
 
