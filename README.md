@@ -26,8 +26,8 @@
 🏆   Karma Points           
 🌸  Completed 0 tasks today                    
 ⏳  Longest streak is 51 days
-![profile](https://komarev.com/ghpvc/?username=saibharadwaj-cheekoti&color=green)
 <!-- TODO-IST:END -->
+![profile](https://komarev.com/ghpvc/?username=saibharadwaj-cheekoti&color=green)
 
 
 📈 my github stats
