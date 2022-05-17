@@ -15,7 +15,8 @@
 <a href="https://www.linkedin.com/in/saibharadwaj-cheekoti/">
   <img align="left" alt="Sai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br/>
+<br>
+
 
 - My Resume: [SaibharadwajCheekoti_Resume](https://github.com/saibharadwaj-cheekoti/saibharadwaj-cheekoti/files/8269785/Saibharadwaj_Cheekoti_WPS.pdf)
 - 😄 Pronouns: He/Him
@@ -24,7 +25,7 @@
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆   Karma Points           
-🌸  Completed 0 tasks today                    
+🌸  Completed 3 tasks today                    
 ⏳  Longest streak is 51 days
 <!-- TODO-IST:END -->
 ![profile](https://komarev.com/ghpvc/?username=saibharadwaj-cheekoti&color=green)
